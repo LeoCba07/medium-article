@@ -7,7 +7,7 @@ body {
 }
 
 .banner {
-  background-image: url("/images/ayumi-kubo-L6EWSG8FHok-unsplash.jpg");
+  background-image: url("./images/ayumi-kubo-L6EWSG8FHok-unsplash.jpg");
   background-size: cover;
   padding: 120px;
   color: rgb(228, 226, 226);
